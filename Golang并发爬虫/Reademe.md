@@ -1,11 +1,15 @@
-![image-20231004102218060](C:\Users\26241\AppData\Roaming\Typora\typora-user-images\image-20231004102218060.png)
+![image](https://github.com/Chencihai/Chencihai/assets/95452629/f5908e77-eb52-461a-88d6-274f29d9fc38)
 
-![image-20231004102412082](C:\Users\26241\AppData\Roaming\Typora\typora-user-images\image-20231004102412082.png)
 
-![24c56f533679f80bff8e44f03a1c402](C:\Users\26241\Documents\WeChat Files\wxid_qktgp0f6jmyd22\FileStorage\Temp\24c56f533679f80bff8e44f03a1c402.png)
+![image](https://github.com/Chencihai/Chencihai/assets/95452629/578e2bfa-1eed-4a30-868f-4ae5b49d30e3)
 
-![image-20231004102447978](C:\Users\26241\AppData\Roaming\Typora\typora-user-images\image-20231004102447978.png)
 
-![image-20231004102503207](C:\Users\26241\AppData\Roaming\Typora\typora-user-images\image-20231004102503207.png)
+![image](https://github.com/Chencihai/Chencihai/assets/95452629/9c0b588e-b7f3-417d-8c92-063fcc589b2d)
+
+
+![image](https://github.com/Chencihai/Chencihai/assets/95452629/cd11d0d6-d18d-40f7-8f84-6cb46647c08d)
+
+
+![image](https://github.com/Chencihai/Chencihai/assets/95452629/60c20bab-1667-41c7-a63b-3461b72841ef)
 
 使用了并发管道加持的基于Golang的百度贴吧网页爬虫
