@@ -1,0 +1,15 @@
+syntax="proto3";
+
+//请求
+message CapRequest{
+}
+//响应
+message CapResponse{
+    string fpath=1;
+    string bpath=2;
+}
+//相当于接口
+//定义开放调用的服务
+service CaptureLicService{
+    rpc CapLicenseInfo (CapRequest) returns (CapResponse){}
+}
