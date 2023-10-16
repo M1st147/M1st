@@ -18,6 +18,7 @@
  **6、本版本为重构版本，不需要引入额外的包，只需两个文件。代码清晰易懂，并加入大量释。** 
  
 ##使用方法：
+
 ###1、配置好go语言环境，
 ###2、把server.go上传到公网服务器上。运行例子：go run server.go -localPort 3002 -remotePort 20012（如下图）
 localPort端口为用户访问的端口，remotePort端口为与client通讯的端口。
